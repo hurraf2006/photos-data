@@ -6,6 +6,37 @@
       { "name": "Архитектура" },
       { "name": "Города" }
     ],
+    
+  "blogs": [
+    {
+      "title": "Zapchast sirojiddin aka 1",
+      "category": 2,
+      "number": "15",
+      "price": "5",
+      "counted": 75,
+      "time": "",
+      "id": 2
+    },
+    {
+      "title": "Zapchast qo'qon 1",
+      "category": 4,
+      "number": "15",
+      "price": "5",
+      "counted": 75,
+      "time": "",
+      "id": 4
+    },
+    {
+      "title": "Zapchast ahad aka 2",
+      "category": 1,
+      "number": "15",
+      "price": "5",
+      "counted": 75,
+      "time": "",
+      "id": 5
+    }
+  ],
+
     "rates": {
     "AED":4.032978,
     "AFN":92.991713,
